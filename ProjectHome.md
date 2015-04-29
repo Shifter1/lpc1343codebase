@@ -1,0 +1,5 @@
+An open source software library for NXP's Cortex-M3 based LPC1300 microcontroller family.  Developped with GCC, the package includes complete startup code, a standard make file, and project files for CodeLite C/C++ IDE and Rowley Associate's (commercial) GCC-based Crossworks for ARM.
+
+This software was originally intended to be used with the [LPC1343 Reference Design](http://www.microbuilder.eu/Projects/LPC1343ReferenceDesign.aspx), but it can easily be adapted to almost any LPC1000 microcontroller, and has been successfully adapted to a number of LPC1100, LPC1300 and LPC1700 chips.
+
+An archived .zip file of the latest release can usually be found on the  [LPC1343 Code Base](http://www.microbuilder.eu/Projects/LPC1343ReferenceDesign/LPC1343CodeBase.aspx) page at www.microbuilder.eu, along with the [documentation](http://www.microbuilder.eu/Projects/LPC1343ReferenceDesign/CodeBaseDocumentation.aspx) and various tutorials.
